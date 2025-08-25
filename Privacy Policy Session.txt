@@ -1,0 +1,42 @@
+Privacy Policy
+
+Effective Date: 2025-08-25
+
+Session Focus Timer – Pomodoro (“the App”) respects your privacy. This Privacy Policy explains how we handle your information when you use our app.
+
+1. Information We Collect
+
+We do not collect, store, or share any personal information.
+
+No sign-ups or accounts are required.
+
+No names, emails, or phone numbers are collected.
+
+No location data is tracked.
+
+All focus sessions, scores, and analytics are stored locally on your device.
+
+2. How We Use Data
+
+Since we do not collect personal information, there is no data used for advertising, tracking, or third-party purposes. Your focus statistics remain private to you.
+
+3. Third-Party Services
+
+The App does not use third-party SDKs or analytics tools that collect personal data.
+
+4. Data Security
+
+All session data (focus times, scores, analytics, and quests) stays on your device. If you uninstall the app, this data will be removed permanently.
+
+5. Children’s Privacy
+
+The App is safe for all ages. We do not knowingly collect data from children under 13, or from any user.
+
+6. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Any updates will be reflected in this document, with the effective date noted above.
+
+7. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+📧 devotionglobo@gmail.com
