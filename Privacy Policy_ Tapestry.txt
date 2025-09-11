@@ -1,10 +1,10 @@
-📄 Privacy Policy – Bible Devotional App
+📄 Privacy Policy – Bible Tapestry App
 
 Effective Date: 19/08/2025
 
 Introduction
 
-Thank you for using our Bible Devotional App ("Holy Bible Tapestry"). Your privacy is very important to us. This Privacy Policy explains how we handle information when you use the App.
+Thank you for using our Bible App ("Holy Bible Tapestry"). Your privacy is very important to us. This Privacy Policy explains how we handle information when you use the App.
 
 Data Collection
 
@@ -24,7 +24,7 @@ The App does not use third-party SDKs or services that collect user data.
 
 Children’s Privacy
 
-The App is suitable for users of all ages. Since no personal data is collected, it complies with Google Play’s requirements for apps directed at children.
+The App is suitable for users of 13 years of ages and above. Since no personal data is collected, it complies with Google Play’s requirements for apps directed at teens and adults.
 
 Changes to This Privacy Policy
 
@@ -33,4 +33,5 @@ If we make any changes to this Privacy Policy, we will update the date at the to
 Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
+
 devovtionglobo@gmail.com
