@@ -1,0 +1,57 @@
+Privacy Policy for Slang Language Learning
+
+Effective Date: 21-10-2025
+
+Thank you for using Slang — a language learning app designed to help users improve pronunciation, vocabulary, and fluency.
+Your privacy is very important to us. This Privacy Policy explains how we handle your information.
+
+1. No Account or Personal Data Required
+
+Slang does not require users to sign up, create an account, or provide any personal details such as name, email, phone number, or location.
+You can use all main features without sharing personal information.
+
+2. Information We Do Collect
+
+Slang may collect non-personal data such as:
+
+App usage analytics (e.g., number of sessions, feature usage frequency)
+
+Performance data (e.g., crash reports or error logs)
+These analytics are anonymous and help us improve app performance, stability, and user experience.
+
+3. How We Use Data
+
+The limited information collected is used only to:
+
+Improve functionality and user experience
+
+Fix bugs and performance issues
+
+Monitor app stability and analytics trends
+
+We do not sell, rent, or share any data with third parties for marketing purposes.
+
+4. Third-Party Services
+
+Slang may use trusted third-party tools such as Google Analytics for Firebase or similar services to gather anonymous performance data.
+These tools comply with international privacy regulations and do not collect personally identifiable information.
+
+5. Data Security
+
+We take reasonable measures to ensure your data is stored and transmitted securely.
+Since no personal data is collected, there is no risk of sensitive information exposure.
+
+6. Your Rights
+
+You can stop all data collection by uninstalling the app.
+Slang does not store any personal records or user profiles.
+
+7. Changes to This Policy
+
+We may update this Privacy Policy from time to time.
+Any changes will be reflected in this document with an updated effective date.
+
+8. Contact Us
+
+If you have questions or concerns about this Privacy Policy, please contact us at:
+📧 email: devotionglobo@gmail.com
