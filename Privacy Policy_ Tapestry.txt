@@ -1,7 +1,5 @@
 📄 Privacy Policy – Bible Tapestry App
 
-Effective Date: 19/08/2025
-
 Introduction
 
 Thank you for using our Bible App ("Holy Bible Tapestry"). Your privacy is very important to us. This Privacy Policy explains how we handle information when you use the App.
@@ -35,3 +33,4 @@ Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
 
 devovtionglobo@gmail.com
+
